@@ -1,4 +1,4 @@
-mport parseFile
+import parseFile
 import fileReader
 import sys, getopt
 
